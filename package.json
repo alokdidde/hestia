@@ -6,7 +6,9 @@
   "main": "index.js",
   "scripts": {
     "test": "c8 mocha './domain/**/*.spec.js' --recursive --timeout 60000 --exit",
-    "dev": "next ./server dev"
+    "dev": "next ./server dev",
+    "build": "next ./server build",
+    "start": "next ./server start"
   },
   "keywords": [],
   "author": "",
