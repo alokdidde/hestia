@@ -2,11 +2,31 @@
   "name": "hestia",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "c8 mocha './domain/**/*.spec.js' --recursive --timeout 60000 --exit",
+    "dev": "next ./server dev"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.20.4",
+    "javascript-time-ago": "^2.3.13",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-time-ago": "^7.1.9",
+    "uuid4": "^2.0.2"
+  },
+  "devDependencies": {
+    "c8": "^7.11.2",
+    "chai": "^4.3.6",
+    "eslint": "8.15.0",
+    "eslint-config-next": "12.1.6",
+    "mocha": "^10.0.0",
+    "sinon": "^14.0.0"
+  }
 }

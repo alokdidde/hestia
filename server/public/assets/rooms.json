@@ -1,0 +1,322 @@
+[
+    {
+        "id": "101",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "102",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "103",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "104",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "105",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "106",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "107",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "108",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "201",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "202",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "203",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "204",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "205",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "206",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "207",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "208",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "301",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "302",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "303",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "304",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "305",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "306",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "307",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "308",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "401",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "402",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "403",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "404",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "405",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "406",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "407",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "408",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "501",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "502",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "503",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "504",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "505",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "506",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "507",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "508",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "601",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "602",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "603",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "604",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "605",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "606",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "607",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "608",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "701",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "702",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "703",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "704",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "705",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "706",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "707",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "708",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "801",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "802",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "803",
+        "type": "STANDARD",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "804",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "805",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "806",
+        "type": "SUPERIOR",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "807",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    },
+    {
+        "id": "808",
+        "type": "DELUXE",
+        "status": "AVAILABLE"
+    }
+]
